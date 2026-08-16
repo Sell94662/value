@@ -127,6 +127,7 @@
     "Xenoshot": 285,
     "Xmas": 7,
     "Yellow Seer": 2,
+    "Item Stability": 5,
     "Chroma Alienbeam": 24000,
     "Chroma Bauble": 34000,
     "Chroma Beachy": 1650,
@@ -408,5 +409,14 @@
     "UFO": 3,
     "Vampire Bat": 3,
     "Zombie Dog": 750,
-    "Corrupt": 410
+    "Corrupt": 410,
+    "Blue Papers": 2,
+    "Box of Fertilizer": 2,
+    "Gold Papers": 2,
+    "Green Papers": 2,
+    "Mystery Key": 1,
+    "Purple Papers": 2,
+    "Red Papers": 2,
+    "Skeleton Key": 5,
+    "Ultra Wrap": 2
 }
